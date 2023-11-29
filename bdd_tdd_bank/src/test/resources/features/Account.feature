@@ -7,5 +7,3 @@ Feature: Account deposits
     Examples:
       | starting balance | amount | new balance |
       | 150              | 1000   | 1150        |
-
-
